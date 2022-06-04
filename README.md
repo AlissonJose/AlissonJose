@@ -18,5 +18,6 @@
    <img align="center" alt="Ali-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ali-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ali-pic" height="150" style="border-radius:50px;"src="https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_all_group.jpg">
+    
+  💜<img align="right" alt="Ali-pic" height="150" style="border-radius:50px;"src="https://dbkpop.com/wp-content/uploads/2022/05/bts_proof_teaser_proof_ver_all_group.jpg">
 </div>
