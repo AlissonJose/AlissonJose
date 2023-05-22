@@ -3,7 +3,7 @@
 
 
 
-##### Nascido e criado na cidade do Altos coqueiros🌴
+##### Nascido e criado na cidade dos Altos coqueiros🌴
 ##### viciado em 🍔🍕🍟🌭🥨🥓🥩🍗🍖
 #### tenho uma doguinha chamada Sky 🐶
 
